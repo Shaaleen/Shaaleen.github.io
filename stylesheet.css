@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: #f5eec2;
+    text-align: center;}
+body{
+    width: 960px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+nav{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+
+}
+li{
+    display: inline;
+    padding: 5px;
+}
+div{
+    overflow: auto;
+    height: 100%
+}
+main{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+}
+article{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+    width: 280px;
+    float: left;
+}
+.mart {
+    background-color: rgb(0, 0, 0);
+}
+.booga {
+    float:none;
+    padding: 200px;
+    margin: 50px;
+    width: 180px;
+
+}
+footer{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+}
